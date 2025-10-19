@@ -4,7 +4,6 @@
 
 
 ✨ ***Key Features***
-This project delivers a full-stack solution to address critical pain points in clinical trial management:
 1. **Recruitment Funnel Visualization:** Track the patient journey from Screened to Enrolled to Randomized with clear performance metrics like Screen Pass Rate and Enrollment Velocity.
 2. **Site Performance Leaderboard:** Benchmark sites against key performance indicators (KPIs) like enrollment count and data completeness to identify top performers and areas needing intervention.
 3. **Patient Adherence Dashboard:** Monitor vital metrics, including Medication Adherence % and Missed Visits, to proactively flag "at-risk" patients and improve retention strategies.
@@ -14,7 +13,6 @@ This project delivers a full-stack solution to address critical pain points in c
 
 
 📁 ***Project Structure***
-* This repository is organized to clearly separate the data, analysis, and application components.
 1. **Data**
 * clinical_trial_dataset.csv     # Raw clinical trial data
 2. **Jupyter Notebook**
