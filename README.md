@@ -1,6 +1,6 @@
 💊 **Clinical Trial Performance & Adherence Monitoring System**
 **Actionable Insights for Trial Managers to Boost Enrollment and Retention**
-A comprehensive project utilizing **data analysis, machine learning, and a modern web dashboard** to optimize the management of multi-site clinical trials. This system provides trial managers with real-time visibility into recruitment funnels, site performance, and a predictive model to flag patients at high risk of dropping out.
+
 
 ✨ **Key Features**
 This project delivers a full-stack solution to address critical pain points in clinical trial management:
